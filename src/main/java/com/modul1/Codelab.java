@@ -13,7 +13,7 @@ public class Codelab {
         nama = objInput.nextLine();
         System.out.print("Masukkan Jenis Kelamin (P/L): ");
         kelamin = objInput.next().charAt(0);
-        System.out.print("Masukkan Kelahiran (yyyy/mm/dd): ");
+        System.out.print("Masukkan Tahun Kelahiran: ");
         kelahiran = objInput.nextInt();
 
         Calendar kalender = Calendar.getInstance();
