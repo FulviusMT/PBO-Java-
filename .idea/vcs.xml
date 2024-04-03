@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/main/java/com/modul3/codelab_pbo_24" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/modul4/codelab4_pbo_24" vcs="Git" />
   </component>
 </project>
